@@ -189,7 +189,7 @@ const Sazetak = () => {
       
       <div className='font-opensans mt-12 justify-between items-center flex lg:w-[1140px] m-auto '>
         
-        <div className='mt-20 lg:flex rounded max-h-[750px]'>
+        <div className='mt-20 lg:flex rounded '>
           <div>
 
             {

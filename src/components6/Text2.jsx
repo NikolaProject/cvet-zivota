@@ -16,26 +16,38 @@ const data =[
 
     {
         id: 1,
-        username: 'Mentorstvo',
-        text: 'Obuke za uvođenje u duhovni rad i duhovne tehnike rada na sebi i drugima, kao i mentorstvo se zakazuju.(Cena 3000 dinara po obuci, ima ih 8; ko nije u mogućnosti da plati, besplatno je).',
-    },
+        username: 'Razvoj tehnologija',
+        text: '1.	Razvoj tehnologija obnovljive energije, razvoj indukcionog motora sa izlaznom silom-energijom većom od ulazne (Projekat je na oko 60 procenta. Izradjen je prototip. Potrebno je napraviti industrijsku – funckionalnu varijatnu. Rok za izvršenje 2020.g.).',
+        smalltext: 'Razvoj tehnologija baziranih na Teslinim principima magnetizma. '
+      },
     {
         id: 2,
-        username: 'Individualni termini',
-        text: 'Individualne termine (online i na licu mesta) za rešavanje svih vrsta problema: emotivnih, psiholoških, duhovnih, fizičkih.',
+        username: 'Izgradnja pravoslavnog hrama',
+        text: 'Pomaganje monaštvu u izgradnji pravoslavnog hrama i monaških kelija, na Kosmaju u selu Koraćici, pored izvora lekovite vode i jedne od najačih energetskih tačaka u Srbiji (Projekat je na oko 20 procenta. Kupljeno je zemljište, raskrčen prostor, arhitektnoski plan je u izradi. Rok za izvršenje 2025.g.).',
     },
     {
         id: 3,
-        username: 'Čišćenje negativnih energija',
-        text: 'Čišćenje negativnih energija svih vrsta, individualno i preko slike.',
-        smalltext: 'Napomena: ovu uslugu možemo odbiti ako procenimo da nismo u mogućnosti da pomognemo. Najtežim slučajevima u 50 % slučajeva ne možemo pomoći. Kod ovakvih pojedinaca za rešavanje je  potrebno i da klijent dugo radi na sebi (za šta možemo ponuditi besplatnu obuku). Za lakše i srednje slučajeve možemo raditi besplatno (ko nema novca), ali to ne radimo za teške slučajeve, zbog količine posla i teške energije koja opterećuje i samog terapeuta. Kod klijenata u najtežim situacijama možemo  raditi besplatno u meri da malo sredimo situaciju, bez garancije za boljitak.'
+        username: 'Pronalazak Energetskih Tačaka',
+        text: 'Pronalaženje,obilazak i obeležavanje svih energetskih tačaka („najdanovih krugova“) u Srbiji(a potom i šire),te promocija ovih lokacija radi isceljivanja i pročišćenja(Pronadjen je veliki broj energetskih tačaka,preko 20, ali se trebaju obeležiti. Rok za izvršenje 2024.g.).',
+        
     },
     {
         id: 4,
-        username: 'Duhovno, poslovno, emotivno i životno savetovanje',
-        text: 'Duhovno, poslovno, emotivno i životno savetovanje sa iskusnim medijumom i jasnovidom. Ovu uslugu pružamo besplatno ako je ljudima potrebna za ozdravljenje i pitanje života. ',
+        username: 'Izrada arhitektonskog i gredjevinskog  projekta',
+        text: 'Izrada arhitektonskog i gredjevinskog  projekta samoodrživih naselja i zajednica. Rad na razvoju posebnog tipa naselja, potuno energetski i resursno samoodrživih i nezavisnih(Projekat je 40 preocenta izradjen. Rok za izvršenje 2024.g).',
     },
-    
+    {
+      id: 5,
+      username: 'Rad na razvoju tehnika',
+      text: 'Rad na razvoju domaćih i sigurnih duhovnih tehnika za lični razvoj i duhovnu evoluciju.',
+      smalltext: '	Rad na razvoju duhovnih tehnika za rad na globalnim duhovnim i fizičkim pitanjima.'
+    },
+    {
+      id: 6,
+      username: 'Udruživanje duhovnih organizacija',
+      text: 'Rad na udruživanju raznih duhovnih organizacijija sa zajedničkim ciljem širenja duhovnosti, tradicionalnih vrednosti i zajedničke borbe protiv svih anti ljudskih fakora u svetu. ',
+      smalltext: 'Promocija duhovnosti i tehnika za duhovni razvoj.'
+    },
 ]
 
 
