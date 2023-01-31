@@ -1,24 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import Navbar from "./components/Navbar";
+import Content from "./components/Content";
+import Slika from "./components/Slika";
+import Offer from "./components/Offer";
+import Statistic from "./components/Statistic";
+import Obuke from "./components/Obuke";
+import OpsteDobro from "./components/OpsteDobro";
+import {Routes, Route} from 'react-router-dom'
+import NewApp from "./NewApp";
+import Footer from "./components3/Footer";
+
+<link rel="preconnect" href="https://fonts.googleapis.com"></link>;
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>;
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"></link>;
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+    <Navbar/>
+    <Content/>
+    <Slika />
+    <Offer/>
+    <Statistic/>
+    <Obuke/>
+    <Footer/>
+   
+
+    {/*<Navbar/>
+    <Content/>
+    <Slika />
+    <Offer/>
+    <Obuke/>
+  <OpsteDobro/>*/}
+    
+    </>
   );
 }
 
