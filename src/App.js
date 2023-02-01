@@ -18,9 +18,9 @@ function App() {
   return (
     <>
     <Navbar/>
-    <Content/>
-    <Slika />
     <Offer/>
+    <Content/>
+    
     <Statistic/>
     <Obuke/>
     <Footer/>

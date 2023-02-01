@@ -35,7 +35,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className='font-opensans bg-hero bg-cover h-[100vh] bg-center '>
+    <div className='font-opensans bg-hero lg:bg-herotri bg-cover md:h-[80vh] bg-center '>
      
       <div className='flex justify-between w-full max-w-[1140px] items-center m-auto'>
         <a href="/" className=''>

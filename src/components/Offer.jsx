@@ -14,9 +14,9 @@ const Offer = () => {
     <div className=''>
       
       
-        <div className=' mx-auto lg:w-[1140px] lg:h-[945px]'>
+        <div className=' mx-auto lg:w-[1140px] lg:h-[945px] mt-5'>
         <div className=''>
-        <p className='font-velikaslova text-[54px]'>Šta Vam Nudimo?</p>
+        <p className='font-velikaslova text-[48px]'>Šta Vam Nudimo?</p>
         <p className=' lg:w-[620px]'>Ovo su terapeutske i energetske usluge  koje nudimo, a sve se rade online, preko viber ili whatsapp video poziva. Javite nam se na viber i napišite koji problem imate, a mi vam možemo dati sugestiju kako najbolje da ga rešite uz našu pomoć.</p>
         <div className='flex mt-4'>
         <img src={Viber} alt="" />

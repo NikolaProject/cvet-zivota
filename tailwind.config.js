@@ -35,6 +35,8 @@ module.exports = {
         onama: "url('../public/img/O udruzenju.png')",
         statistika: "url('../public/img/statistika.png')",
         kontakt: "url('../public/img/Kontak.png')",
+        herodva: "url('../public/img/hero2.png')",
+        herotri: "url('../public/img/hero3.png')",
       },
      menuIcon: {
       menu: "url('../public/img/Vector.svg')",

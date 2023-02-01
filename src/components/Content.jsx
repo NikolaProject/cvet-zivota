@@ -6,7 +6,7 @@ import Item from './Item'
 
 const initialData = [
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "Centar za duhovni razvoj i edukaciju“ je udruženje gradjana, tim ljudi koji deli zajedničku strast prema radu na sebi i pomaganju drugima da stanu na taj put. Naš cilj je edukacija svih zainteresovanih u duhovne tehnike, promocija duhovnosti  i rada na sebi kao načina života, kao i pružanje pomoći svima kojima je potrebna. U tu svrhu organizujemo seminare, kruseve, druženja i zajedničke aktivnosti sa ciljem unapređenja kvaliteta života i duhovne evolucije. Tim poseduje svoj razvojni centar i svakodnevno radi na istraživanju duhovnih svetova i njihovih zakonitosti, a sve to potom prezentujemo i delimo sa svima. Za sve one koji su zablokirani i trenutno sputani, nudimo savetovalište, terapijsku pomoć, duhovno usmeravanje i energetska čišćenja svih vrsta."
       , "Ako vam je potrebna, pomoć u rešavanju određenih zivotnih ili emotivnih problema, ili vam je potrebana edukacija iz bilo koje duhovne sfere, javite nam se na kontakt broj, izaćićemo vam u susret u što kraćem roku.",
@@ -15,7 +15,7 @@ const initialData = [
     hidden: false
   },
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "Centar za duhovni razvoj i edukaciju – Cvet života“ je registrovano i ovlašćeno udruženje za pruzanje duhovne pomoći, savetovanja i edukacije iz oblasti duhovnih tehnika kao što su:", "-Bioenergije ",
       "-Regresoterapije i hipnoze",
@@ -30,7 +30,7 @@ const initialData = [
     hidden: true
   },
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "Centar za duhovni razvoj i edukaciju sastoji se od preko 70 članova, nadarenih,  obučenih i uvežbanih u tehnike rada na sebi i na kolektivu. Grupa u svom sastavu ima i ljude posebnih duhovnih sposobnosti: ",
       "-3 medijuma - ljudi koji mogu komunicirati sa duhovnim svetovima i bićima",
@@ -41,7 +41,7 @@ const initialData = [
     hidden: true
   },
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "U sastavu grupe imamo i pojedince specijalizovane za pružanje pomoći u sledećim oblastima:",
       "-Astrologije",
@@ -56,7 +56,7 @@ const initialData = [
     hidden: true
   },
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "Članovi centra, svakodnevno po svojim mogućnostima rade grupne zajedničke, moltive, meditacije, online skupove u cilju rada na našem individualnom dobru i na dobru celoga kolektiva. Zajednički rad je usmeren na naše međusobno pomaganje, usavršavanje, razvoj i edukaciju, ali i na udruživanje zajedničkih moći i sposobnosti za neutrazlizaciju svih negativnih dejstava po kolektiv i naše države.",
       "Ko želi dati donaciju udruženju i omogućiti njegov dalji rad, te finansirati naš rad na koletivnom dobru i duhovnoj zaštiti svih nas, može nam se javiti na kontakt.",
@@ -64,7 +64,7 @@ const initialData = [
     hidden: true
   },
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "-Članovi udruženja prate svetska dešavanja i trude se da koliko je u njihovoj moći pomognu da se one razreše onako kako je to najbolje za sve.",
       "-Članovi udruzenja aktivno rade na kreiranju pozitivnih vremenskih linija i energetskih tokova koji će omogućiti bolju budućnost za sve. ",
@@ -75,7 +75,7 @@ const initialData = [
     hidden: true
   },
   {
-    title: "Šta je Cvet Života?",
+    title: "Šta Vam Nudimo?",
     content: [
       "Član grupe za zajednicki duhovni rad može prostati svako ko prođe 5 nivoa obuke udruženja gde će se kroz te nivoe svaki pojedinac prvo individualno očisiti, potom naučiti sve što treba da  zna o duhovnom svetu, a potom kako i da radi za dobrobit svih u okviru udruženja. Obuke su besplatne za one koji nemaju novca. Članovi udruženja mogu postati i oni koji nisu zavrišili obuku, ali poseduju znanja i sposobnosti koje mogu pomoći svetu u okviru zajedničkog rada udruženja.  Poštovaoc ideje cveta života je svako ko vrednuje rad na sebi i trudi se da doprinosi na onom polju života gde mu je to dato i omogućeno.",
     ],
@@ -97,8 +97,8 @@ const Content = () => {
   }, [currentIndex]);
 
   return (
-    
-    <div className='font-opensans mt-12 justify-between items-center flex lg:w-[1140px] m-auto'>
+
+    <div className='font-opensans mt-3 justify-between items-center flex lg:w-[1140px] m-auto h-[80vh]'>
       <div className='mt-20 lg:flex rounded'>
         <div>
 

@@ -5,7 +5,7 @@ const Item = ({ itemData }) => {
 
     return (
         <div className='p-5'>
-            <p className='font-velikaslova text-4xl pb-10 md:text-6xl mt-5 '>{itemData.title}</p>
+            <p className='font-velikaslova text-3xl pb-10 md:text-4xl mt-5 '>{itemData.title}</p>
             <div className="grid">
                 <p className='mr-0 lg:mr-20 md:h-[560px]'>
                     {
