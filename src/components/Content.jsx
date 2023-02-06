@@ -98,7 +98,7 @@ const Content = () => {
 
   return (
 
-    <div className='font-opensans mt-3 justify-between items-center flex lg:w-[1140px] m-auto h-[80vh]'>
+    <div className='font-opensans mt-3 justify-between items-center flex lg:w-[1140px] m-auto '>
       <div className='mt-20 lg:flex rounded'>
         <div>
 
