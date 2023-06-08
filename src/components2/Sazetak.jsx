@@ -10,14 +10,14 @@ const initialData = [
   {
     title: "I Kurs - Teta talasi i rad sa molitvama",
     content: [
-      "•	Uči se kako se spustaju mozdani talasi u alfa i teta talase - stanje"
-      , "•	Osnovni rad sa molitvama i rad na pojačavanju ličnih parametra molitvamaAko vam je potrebna, pomoć u rešavanju određenih zivotnih ili emotivnih problema, ili vam je potrebana edukacija iz bilo koje duhovne sfere, javite nam se na kontakt broj, izaćićemo vam u susret u što kraćem roku.",
+      "•	Uči se kako se spuštaju moždani talasi u alfa i teta talase - stanje"
+      , "•	Osnovni rad sa molitvama i rad na pojačavanju ličnih parametra molitvama. Ako vam je potrebna, pomoć u rešavanju određenih zivotnih ili emotivnih problema, ili Vam je potrebana edukacija iz bilo koje duhovne sfere, javite nam se na kontakt broj, izaćićemo Vam u susret u što kraćem roku.",
       "•	Osnovni rad sa vizualizacijom. Rad vizualizacijom za ojačavanje pozitivnih životnih parametra i otklanjenje negativnih"
       ,"•	Osnovne mentalne projekcije ,radi čišcenja čakiri, energetskih tela"
       ,"•	Osvnovno čiscenje enteteta i negativnih energija iz auričnog polja čoveka"
       ,"•	Savladavanje PIP procesa, unapredjenje verzije PEAT sistema za eliminaciju negativnih misli i emocija"
       ,"•	Savladavanje tehnike CVET TRANSFORMACIJE, za brzu eliminaciju negativnih energija"
-      ,"•	Ucenje kako meditirati"
+      ,"•	Učenje kako meditirati"
     ],
     hidden: false
   },

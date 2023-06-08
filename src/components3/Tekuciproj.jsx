@@ -26,7 +26,7 @@ Razvoj tehnologija baziranih na Teslinim principima magnetizma.</p>
             </div>
             <div className=' rounded-md p-4 border-slate-200 border-[1px] mb-5 lg:w-[365px]'>
                 <p className='text-2xl font-velikaslova mb-4'>Pronalazak Energetskih Tačaka</p>
-                <p className='text-gray-500'>Pronalaženje,obilazak i obeležavanje svih energetskih tačaka („najdanovih krugova“) u Srbiji(a potom i šire),te promocija ovih lokacija radi isceljivanja i pročišćenja(Pronadjen je veliki broj energetskih tačaka,preko 20, ali se trebaju obeležiti. Rok za izvršenje 2024.g.).</p>
+                <p className='text-gray-500'>Pronalaženje, obilazak i obeležavanje svih energetskih tačaka („Najdanovih krugova“) u Srbiji (a potom i šire), te promocija ovih lokacija radi isceljivanja i pročišćenja (pronadjen je veliki broj energetskih tačaka, preko 20, ali se trebaju obeležiti. Rok za izvršenje 2024.g.).</p>
                 
             </div>
         </div>

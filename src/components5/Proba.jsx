@@ -47,7 +47,7 @@ const data =[
     {
         id: 7,
         username: 'Rad za kolektiv',
-        text: 'Rad za kolektiv. Udruženje svaki dan prati aktuelne situacije, naročito one vezane za naš narod i Balkan, i kad god je to potrebno reagujemo svim raspoloživim duhovnim sredstvima, koliko možemo. Svakodnevno radimo tehnike i molitve za kreiranje bolje energetske atmosfere na Balkanu i usmeravanje boljih vremenskih linija za ceo Balkan. ',
+        text: 'Udruženje svaki dan prati aktuelne situacije, naročito one vezane za naš narod i Balkan, i kad god je to potrebno reagujemo svim raspoloživim duhovnim sredstvima, koliko možemo. Svakodnevno radimo tehnike i molitve za kreiranje bolje energetske atmosfere na Balkanu i usmeravanje boljih vremenskih linija za ceo Balkan. ',
     },
     {
         id: 8,

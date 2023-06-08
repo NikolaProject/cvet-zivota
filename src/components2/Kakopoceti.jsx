@@ -20,7 +20,7 @@ const Kakopoceti = () => {
     <img className='mr-3 ml-3' src={Phone} alt="" />
     <p >00381 64 532 39 58 (Nemanja)</p>
   </div>
-  <p>Naručene obuke dobijate odmah u vidu snimljenih vodjenih audio i video materijala,kao i skripti,  na vaš viber i mail. Javite nam se na viber kontakt, ostavite vaš mail i mi ćemo vam poslati celokupne kurseve za koje ste zainteresovani. Cena po kursu je 25e (3000 din), medjutim oni koji nemaju novca da plate za njih je besplatno. 
+  <p>Naručene obuke dobijate odmah u vidu snimljenih vodjenih audio i video materijala, kao i skripti,  na vaš viber i mail. Javite nam se na viber kontakt, ostavite vaš mail i mi ćemo Vam poslati celokupne kurseve za koje ste zainteresovani. Cena po kursu je 25e (3000 din), medjutim oni koji nemaju novca da plate za njih je besplatno. 
 <br /><br />
 Medjutim ako želite svejedno ih opet možete proći besplatno i vodjeno sa Nemanjom tokom nekog od zajedničkih radova koji se organizuju svake nedelje(informacije će te dobiti zajedno sa preuzetim kursom).
 </p>

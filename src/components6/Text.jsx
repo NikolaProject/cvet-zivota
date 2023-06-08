@@ -28,13 +28,13 @@ const data =[
     {
         id: 3,
         username: 'Pronalazak Energetskih Tačaka',
-        text: 'Pronalaženje,obilazak i obeležavanje svih energetskih tačaka („najdanovih krugova“) u Srbiji(a potom i šire),te promocija ovih lokacija radi isceljivanja i pročišćenja(Pronadjen je veliki broj energetskih tačaka,preko 20, ali se trebaju obeležiti. Rok za izvršenje 2024.g.).',
+        text: 'Pronalaženje, obilazak i obeležavanje svih energetskih tačaka („Najdanovih krugova“) u Srbiji (a potom i šire), te promocija ovih lokacija radi isceljivanja i pročišćenja (pronadjen je veliki broj energetskih tačaka, preko 20, ali se trebaju obeležiti. Rok za izvršenje 2024.g.).',
         
     },
     {
         id: 4,
-        username: 'Izrada arhitektonskog i gredjevinskog  projekta',
-        text: 'Izrada arhitektonskog i gredjevinskog  projekta samoodrživih naselja i zajednica. Rad na razvoju posebnog tipa naselja, potuno energetski i resursno samoodrživih i nezavisnih(Projekat je 40 preocenta izradjen. Rok za izvršenje 2024.g).',
+        username: 'Izrada arhitektonskog i gradjevinskog  projekta',
+        text: 'Izrada arhitektonskog i gradjevinskog  projekta samoodrživih naselja i zajednica. Rad na razvoju posebnog tipa naselja, potuno energetski i resursno samoodrživih i nezavisnih (Projekat je 40 procenta izradjen. Rok za izvršenje 2024.g).',
     },
     {
       id: 5,

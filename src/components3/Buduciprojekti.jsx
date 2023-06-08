@@ -23,9 +23,9 @@ const Buduciprojekti = () => {
         </div>
         <div className='flex mt-10'>
             <div>
-            <img className='min-w-fit  rounded-full' src={Gender} alt="" />
+            <img className='w-[55px]  rounded-full absolute' src={Gender} alt="" />
             </div>
-            <p className='ml-10'>Ispitivanje uzročnika globalne neplodnosti muškaraca i žena. Pokretanje peticijije u cilju ograničavanja svih onih faktora koji utiču na neplodnost stanovništva.</p>
+            <p className='ml-20'>Ispitivanje uzročnika globalne neplodnosti muškaraca i žena. Pokretanje peticijije u cilju ograničavanja svih onih faktora koji utiču na neplodnost stanovništva.</p>
         </div>
         <div className='flex mt-10'>
             <div>

@@ -18,7 +18,7 @@ const Opstenapomene = () => {
 
 <p>Sve navedene kurseve drži Nemanja Blagojević i sve tehnike su nastale kao rezultat njegovog rada i istrazvianja, zajedno sa svim prijateljima, učiteljima i istraživačima iz „CENTRA ZA DUHOVNI RAZVOJ I EDUKACIJU – CVET ŽIVOTA“. 
 <br /><br />
-Sve tehnike su nebrojano puta dokazane u praksi, isprobane, sigrune i svakodnevno se primenjuju od svih članova, učenika i u radu sa klijentima. Do kraja 2022. godine, centar je održao preko 100 kurseva i obuka,kako online i uživo i 80 procenta svih polaznika prvog kursa završe svih 8 regularnih nivoa obuke svojevoljno, a potom i nastave na delje rad koliko su u mogućnosti.
+Sve tehnike su nebrojano puta dokazane u praksi, isprobane, sigurne i svakodnevno se primenjuju od svih članova, učenika i u radu sa klijentima. Do kraja 2022. godine, centar je održao preko 100 kurseva i obuka, kako online i uživo i 80 procenta svih polaznika prvog kursa završe svih 8 regularnih nivoa obuke svojevoljno, a potom i nastave na dalji rad koliko su u mogućnosti.
 </p>
 
 <button className='flex mt-9 mb-3 p-4 bg-zuta rounded-md'>Preuzmi Detaljna Upustva

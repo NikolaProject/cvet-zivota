@@ -33,8 +33,8 @@ const data =[
     },
     {
         id: 4,
-        username: 'Izrada arhitektonskog i gredjevinskog  projekta',
-        text: 'Izrada arhitektonskog i gredjevinskog  projekta samoodrživih naselja i zajednica. Rad na razvoju posebnog tipa naselja, potuno energetski i resursno samoodrživih i nezavisnih(Projekat je 40 preocenta izradjen. Rok za izvršenje 2024.g).',
+        username: 'Izrada arhitektonskog i gradjevinskog projekta',
+        text: 'Izrada arhitektonskog i gradjevinskog  projekta samoodrživih naselja i zajednica. Rad na razvoju posebnog tipa naselja, potuno energetski i resursno samoodrživih i nezavisnih(Projekat je 40 preocenta izradjen. Rok za izvršenje 2024.g).',
     },
     {
       id: 5,
