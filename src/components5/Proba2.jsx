@@ -65,7 +65,7 @@ const Proba2 = () => {
     <div className='max-w-[1140px] m-auto lg:hidden px-3 mt-10'>
         
         <div className='pb-10 font-velikaslova text-4xl'>Šta vam nudi udruženje cvet života?</div>
-        <p className='pb-10 max-w-[780px] text-gray-500'>Centar radi svakog dana od 17 do 21h, u ulici Tamnavska 2. Uvek smo dostupni na telefon 00381 64 3307 907. Tretmani i intervencije se zakazuju,kao i dolazak na lokaciju. Ako je situacija hitna možemo vam pružiti pomoć istog dana.</p>
+        <p className='pb-10 max-w-[780px] text-gray-500'>Centar radi svakog dana od 17 do 21h, u ulici Tamnavska 2. Uvek smo dostupni na telefon +381 64 532 39 58. Tretmani i intervencije se zakazuju,kao i dolazak na lokaciju. Ako je situacija hitna možemo vam pružiti pomoć istog dana.</p>
        <Swiper 
       spaceBetween={20}
       slidesPerView={1} 

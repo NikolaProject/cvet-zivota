@@ -17,25 +17,17 @@ const data =[
     {
         id: 1,
         username: 'Razvoj tehnologija',
-        text: '1.	Razvoj tehnologija obnovljive energije, razvoj indukcionog motora sa izlaznom silom-energijom većom od ulazne (Projekat je na oko 60 procenta. Izradjen je prototip. Potrebno je napraviti industrijsku – funckionalnu varijatnu. Rok za izvršenje 2020.g.).',
+        
         smalltext: 'Razvoj tehnologija baziranih na Teslinim principima magnetizma. '
       },
-    {
-        id: 2,
-        username: 'Izgradnja pravoslavnog hrama',
-        text: 'Pomaganje monaštvu u izgradnji pravoslavnog hrama i monaških kelija, na Kosmaju u selu Koraćici, pored izvora lekovite vode i jedne od najačih energetskih tačaka u Srbiji (Projekat je na oko 20 procenta. Kupljeno je zemljište, raskrčen prostor, arhitektnoski plan je u izradi. Rok za izvršenje 2025.g.).',
-    },
+    
     {
         id: 3,
         username: 'Pronalazak Energetskih Tačaka',
         text: 'Pronalaženje, obilazak i obeležavanje svih energetskih tačaka („Najdanovih krugova“) u Srbiji (a potom i šire), te promocija ovih lokacija radi isceljivanja i pročišćenja (pronadjen je veliki broj energetskih tačaka, preko 20, ali se trebaju obeležiti. Rok za izvršenje 2024.g.).',
         
     },
-    {
-        id: 4,
-        username: 'Izrada arhitektonskog i gradjevinskog  projekta',
-        text: 'Izrada arhitektonskog i gradjevinskog  projekta samoodrživih naselja i zajednica. Rad na razvoju posebnog tipa naselja, potuno energetski i resursno samoodrživih i nezavisnih (Projekat je 40 procenta izradjen. Rok za izvršenje 2024.g).',
-    },
+   
     {
       id: 5,
       username: 'Rad na razvoju tehnika',

@@ -1,7 +1,6 @@
 import Navbar from "./components/Navbar";
 import Content from "./components/Content";
 import Slika from "./components/Slika";
-import Offer from "./components/Offer";
 import Statistic from "./components/Statistic";
 import Obuke from "./components/Obuke";
 import OpsteDobro from "./components/OpsteDobro";
@@ -18,7 +17,7 @@ function App() {
   return (
     <>
     <Navbar/>
-    <Offer/>
+    
     <Content/>
     <Statistic/>
     <Obuke/>

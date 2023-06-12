@@ -8,9 +8,12 @@ const initialData = [
   {
     title: "Šta Vam Nudimo?",
     content: [
-      "Centar za duhovni razvoj i edukaciju je udruženje gradjana, tim ljudi koji deli zajedničku strast prema radu na sebi i pomaganju drugima da stanu na taj put. Naš cilj je edukacija svih zainteresovanih u duhovne tehnike, promocija duhovnosti  i rada na sebi kao načina života, kao i pružanje pomoći svima kojima je potrebna. U tu svrhu organizujemo seminare, kruseve, druženja i zajedničke aktivnosti sa ciljem unapređenja kvaliteta života i duhovne evolucije. Tim poseduje svoj razvojni centar i svakodnevno radi na istraživanju duhovnih svetova i njihovih zakonitosti, a sve to potom prezentujemo i delimo sa svima. Za sve one koji su zablokirani i trenutno sputani, nudimo savetovalište, terapijsku pomoć, duhovno usmeravanje i energetska čišćenja svih vrsta."
-      , "Ako vam je potrebna, pomoć u rešavanju određenih životnih ili emotivnih problema, ili vam je potrebana edukacija iz bilo koje duhovne sfere, javite nam se na kontakt broj, izaćićemo vam u susret u što kraćem roku.",
-      "Centar vam moze pruziti i pomoć i obuku i kada niste pri novcu, a za one koji su u mogućnosti platiti za našu uslugu, garantujemo poboljšanje stanja, ili u suprotnom ne naplacujemo svoje usluge. "
+      "Naše obuke možete proći: "
+      , "1. Uživo u Beogradu, na lokaciju centra Tamanavksa 2",
+      "2. Online preko zooma, a kurseve vodi Nemanja Blagojević",
+      "3. Ili samostalno preko snimljenih obuka i materijala. U tom slučaju mi vam šaljemo celokupni materijal po obukama, koje vi prolazite kako sami želite. Obezbedjeni su snimci, vodjene tehnike i skripte"
+      ,"Takodje se možete javiti centrali, ili Nemanji Blagojeviću ako vam je potrebna neka pomoć, preko viber poruka."
+      ,"Sve ovo na broj (isključivo preko vibera) +381 64 5323958"
     ],
     hidden: false
   },

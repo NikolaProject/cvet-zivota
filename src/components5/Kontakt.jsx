@@ -46,27 +46,12 @@ Javite nam se običnom porukom ili na viber i kažite koji je vaš problem, a mi
           <div>
             <div className='border-zinc-300 border-[1px] mb-2 lg:mr-2 rounded-md py-4 lg:w-[259px] lg:h-[165px]'>
                 <p className='text-2xl font-bold'>Centrala</p>
-                <p>Nemanja</p>
+                
                 <div className='md:mt-10  bg-siva text-black rounded-full mx-3 py-1 font-bold'><img src="" alt="" /> <p>00381 64 532 39 58</p></div>
             </div>
-            <div className='border-zinc-300 border-[1px] mb-2 rounded-md py-4 lg:mr-2 lg:w-[259px] lg:h-[165px]'>
-                <p className='text-2xl font-bold'>Medijum</p>
-                <p>Jelena</p>
-                <div className='md:mt-10  bg-siva text-black rounded-full mx-3 py-1 font-bold'><img src="" alt="" /> <p>00381 63 700 20 02</p></div>
-            </div>
+            
           </div>
-          <div>
-             <div className='border-zinc-300 border-[1px] mb-2  rounded-md py-4 lg:w-[259px] lg:h-[165px]'>
-                <p className='text-xl font-bold'>Radiestezista – Egzorcista</p>
-                <p>Dušan</p>
-                <div className='md:mt-10 bg-siva text-black rounded-full mx-3 py-1 font-bold'><img src="" alt="" /> <p>00381 67 707 86 11</p></div>
-            </div> 
-            <div className='border-zinc-300 border-[1px] mb-2 rounded-md py-4 lg:w-[259px] lg:h-[165px]'>
-                <p className='text-2xl font-bold'>Astrolog</p>
-                <p>Marijana</p>
-                <div className='md:mt-10  bg-siva text-black rounded-full mx-3 py-1 font-bold'><img src="" alt="" /> <p>00381 61 610 6165</p></div>
-                </div>
-            </div>
+          
         </div>
     </div>
     
