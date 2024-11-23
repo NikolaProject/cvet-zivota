@@ -23,7 +23,8 @@ const Footer = () => {
 
         <ul className='flex text-white items-center'>
           <a className='hidden sm:flex p-5' href="/Obukeikursevi">Kursevi i Obuke</a>
-          <a className='hidden sm:flex p-5' href="/NasiProjekti">Nasi Projekti</a>
+          <a className='hidden sm:flex p-5' href="/NasiProjekti">Naši Projekti</a>
+          <a className='hidden sm:flex p-5' href="/Napomene">Napomene</a>
           <a className='hidden sm:flex p-5 mr-0 md:mr-40' href="/Onama">O nama</a>
           <a href="/Kontakt"><button className='bg-zuta w-[189px] h-[51px] rounded-md mr-3 sm:mr-0'>Kontaktiraj Nas</button></a>
         </ul>

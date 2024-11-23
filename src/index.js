@@ -8,6 +8,7 @@ import {Routes, Route} from 'react-router-dom';
 import Nasiproj from './Nasiproj';
 import Onama from './Onama';
 import KontaktirajNas from './KontaktirajNas';
+import Napomene from './Napomene';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -20,6 +21,7 @@ root.render(
     <Route path='/Nasiprojekti' element={<Nasiproj/>} />
     <Route path='/Onama' element={<Onama/>}/>
     <Route path='/Kontakt' element={<KontaktirajNas/>}/>
+    <Route path='/Napomene' element={<Napomene/>}/>
     
     
   </Routes> 

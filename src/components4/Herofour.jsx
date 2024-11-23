@@ -18,6 +18,7 @@ export const Herofour = () => {
           <a id="home" className="menu-item" href="/">Početna</a>
             <a id="about" className="menu-item" href="/Obukeikursevi">Kursevi i Obuke</a>
             <a id="contact" className="menu-item" href="/NasiProjekti">Naši Projekti</a>
+            <a id="home" className="menu-item" href="/Napomene">Napomene</a>
             <a id="home" className="menu-item" href="/Onama">O nama</a>
           </Menu>
         </div>
@@ -25,7 +26,8 @@ export const Herofour = () => {
 
         <ul className='hidden md:flex text-white items-center'>
           <a className='p-5' href="/Obukeikursevi">Kursevi i Obuke</a>
-          <a className='p-5' href="/NasiProjekti">Nasi Projekti</a>
+          <a className='p-5' href="/NasiProjekti">Naši Projekti</a>
+          <a className='p-5' href="/Napomene">Napomene</a>
           <a className='p-5' href="/Onama">O nama</a>
           <a href="/Kontakt"><button className='bg-zuta w-[189px] h-[51px] rounded-md'>Kontaktiraj Nas</button></a>
         </ul>
