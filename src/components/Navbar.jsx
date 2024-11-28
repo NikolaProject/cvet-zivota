@@ -35,7 +35,7 @@ const Navbar = () => {
   }
 
   return (
-    <div className='font-opensans bg-hero lg:bg-herotri bg-cover md:h-[80vh] bg-center '>
+    <div className='font-opensans bg-hero lg:bg-herotri bg-cover md:h-[80vh] bg-center'>
      
       <div className='flex justify-between w-full max-w-[1140px] items-center m-auto'>
         <a href="/" className=''>
@@ -46,6 +46,7 @@ const Navbar = () => {
           <Menu right>
             <a id="home" className="menu-item" href="/">Početna</a>
             <a id="about" className="menu-item" href="/Obukeikursevi">Kursevi i Obuke</a>
+            <a id="about" className="menu-item" href="/Strukturaobuke">Struktura obuke</a>
             <a id="contact" className="menu-item" href="/NasiProjekti">Naši Projekti</a>
             <a id="home" className="menu-item" href="/Napomene">Napomene</a>
             <a id="home" className="menu-item" href="/Onama">O nama</a>
@@ -54,6 +55,7 @@ const Navbar = () => {
 
         <ul className='hidden md:flex text-white items-center'>
           <a className='p-5' href="/Obukeikursevi">Kursevi i Obuke</a>
+          <a className='p-5' href="/Strukturaobuke">Struktura obuke</a>
           <a className='p-5' href="/NasiProjekti">Naši Projekti</a>
           <a className='p-5' href="/Napomene">Napomene</a>
           <a className='p-5' href="/Onama">O nama</a>

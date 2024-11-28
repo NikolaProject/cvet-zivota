@@ -7,6 +7,9 @@ import OpsteDobro from "./components/OpsteDobro";
 import {Routes, Route} from 'react-router-dom'
 import NewApp from "./NewApp";
 import Footer from "./components3/Footer";
+import { Onama } from "./components/Onama";
+import Ciljevi from "./components/Ciljevi";
+import Ciljevi2 from "./components/Ciljevi2";
 
 <link rel="preconnect" href="https://fonts.googleapis.com"></link>;
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>;
@@ -17,10 +20,19 @@ function App() {
   return (
     <>
     <Navbar/>
+
+    <Ciljevi/>
+
+    <Ciljevi2/>
+
+    <Onama/>
     
     <Content/>
+
     <Statistic/>
+
     <Obuke/>
+
     <Footer/>
    
 

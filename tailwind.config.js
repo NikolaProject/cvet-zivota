@@ -26,7 +26,8 @@ module.exports = {
       },
       fontFamily:{
         opensans:['Open Sans', 'sans-serif'],
-        velikaslova:['Abril Fatface', 'cursive']
+        velikaslova:['Abril Fatface', 'cursive'],
+        montaga:['Montaga', 'open-sans']
       },
       backgroundImage:{
         hero: "url('../public/img/hero.png')",
@@ -37,6 +38,8 @@ module.exports = {
         kontakt: "url('../public/img/Kontak.png')",
         herodva: "url('../public/img/hero2.png')",
         herotri: "url('../public/img/hero3.png')",
+        heroosam: "url('../public/img/image 11.png')",
+        meditacija: "url('../public/img/image 8.png')"
       },
      menuIcon: {
       menu: "url('../public/img/Vector.svg')",

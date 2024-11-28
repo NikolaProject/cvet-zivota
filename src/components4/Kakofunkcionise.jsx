@@ -3,9 +3,8 @@ import Kamen from '../assets/o udruzenju 2nd.png'
 
 const Kakofunkcionise = () => {
   return (
-    <div className='lg:w-[1140px] font-opensans m-auto mt-12 justify-between items-center flex  '>
 
-        
+    <div className='lg:w-[1140px] font-opensans m-auto mt-12 justify-between items-center flex  '>
 
       <div className='mt-20 lg:flex rounded '>
 

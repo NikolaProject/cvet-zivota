@@ -102,7 +102,7 @@ const Content = () => {
   return (
 
     <div className='font-opensans mt-3 justify-between items-center flex lg:w-[1140px] m-auto '>
-      <div className='mt-20 lg:flex rounded'>
+      <div className='mt-20 lg:flex rounded '>
         <div>
 
           {
@@ -110,7 +110,7 @@ const Content = () => {
 
           }
           <button onClick={back} className='ml-4 '>
-            <ul className='list-none flex   '>
+            <ul className='list-none flex'>
               <li className='rounded-full w-[40px] h-[40px] mr-3 bg-zuta'><span className='ml-[-5px] mt-[-3px] absolute w-4 h-4 border-2 border-black rotate-45 border-r-0 border-t-0 '></span></li>
             </ul>
           </button>

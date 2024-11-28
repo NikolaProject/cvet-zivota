@@ -5,19 +5,13 @@ import Footer from "./components3/Footer";
 function NewApp() {
     return (
       <>
-      <div>
-        
-        <Navbar>
+      <div> 
 
-        </Navbar>
+        <Navbar/>
 
-        <Text>
-
-        </Text>
-
-        <Footer>
+        <Text/>
             
-        </Footer>
+        <Footer/>
 
       </div>
       </>
