@@ -1,5 +1,5 @@
 import React from 'react'
-import Kamen from '../assets/image 27.png'
+import Kamen from '../assets/Levo.png'
 
 
 export const Alati = () => {
