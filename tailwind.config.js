@@ -39,7 +39,8 @@ module.exports = {
         herodva: "url('../public/img/hero2.png')",
         herotri: "url('../public/img/hero3.png')",
         heroosam: "url('../public/img/image 11.png')",
-        meditacija: "url('../public/img/image 8.png')"
+        meditacija: "url('../public/img/image 8.png')",
+        duhovna: "url(../public/img/Pozadina.png)"
       },
      menuIcon: {
       menu: "url('../public/img/Vector.svg')",

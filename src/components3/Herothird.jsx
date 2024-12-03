@@ -11,7 +11,7 @@ const Herothird = () => {
 
       <div className='flex justify-between lg:w-[1140px] items-center m-auto'>
         <a href="/">
-        <img src={Logo} alt="Logo" />
+        <img src={Logo} alt="Logo" />   
         </a>
         <div className='mr-5 w-8  md:hidden'>
           <Menu right>

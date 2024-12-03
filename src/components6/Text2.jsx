@@ -56,7 +56,7 @@ const Text = () => {
 
         <Swiper 
       spaceBetween={20}
-      slidesPerView={1} 
+      slidesPerView={1.2} 
       pagination={{ clickable: true }}
       
       onSlideChange={() => console.log('slide change')}
@@ -65,7 +65,7 @@ const Text = () => {
         
       {data.map(user =>(
         <SwiperSlide key={user.id}>
-            <div className='border-siva border-solid border-[1px] md:h-[410px] rounded-md'>
+            <div className='border-siva border-solid border-[1px] h-[400px] rounded-md'>
                 {user.testimonial}
                 
                 <div className='p-5'>

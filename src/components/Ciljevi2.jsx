@@ -87,7 +87,7 @@ const Ciljevi2 = () => {
 
 
         <Swiper 
-      spaceBetween={20}
+      spaceBetween={50}
       slidesPerView={1.2} 
       pagination={{ clickable: true }}
       
@@ -97,7 +97,7 @@ const Ciljevi2 = () => {
         
       {data.map(user =>(
         <SwiperSlide key={user.id}>
-            <div className=' md:h-[300px] rounded-md'>
+            <div className=' md:h-[300px] md:w-[280px] rounded-md mx-auto'>
                 {user.testimonial}
                 
                 <div className='h-[280px] w-[280px] mx-auto rounded-md border-[1px] p-10 flex flex-col items-center'>
