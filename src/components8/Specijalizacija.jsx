@@ -19,7 +19,7 @@ export const Specijalizacija = () => {
             <span className='flex-shrink-0 w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-zuta'>
             <img src={Flaster} />
             </span>
-            <p className='font-opensans text-white font-bold'>
+            <p className='font-opensans lg:text-white font-bold text-siva'>
             Isceliteljstvo - sprovođenje energije
             </p>
             </li>
@@ -28,7 +28,7 @@ export const Specijalizacija = () => {
             <span className='flex-shrink-0 w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-zelena'>
             <img src={Atom} />
             </span>
-            <p className='font-opensans text-white font-bold'>
+            <p className='font-opensans lg:text-white font-bold text-siva'>
             Kvantna polja
             </p>
             </li>
@@ -37,7 +37,7 @@ export const Specijalizacija = () => {
             <span className='flex-shrink-0 w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-[#979a1a]'>
             <img src={Glava} />
             </span>
-            <p className='font-opensans text-white font-bold'>
+            <p className='font-opensans lg:text-white font-bold text-siva'>
             Egzorcizam i duhovna borba
             </p>
             </li>
