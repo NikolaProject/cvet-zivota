@@ -62,9 +62,9 @@ const data = [
 const Obuke2 = () => {
   return (
     <div className='max-w-[1140px] m-auto lg:hidden px-3 mt-24'>
-        <div className='text-left justify-between'>
+        <div className='text-left justify-between flex:col'>
         <p className='text-4xl font-velikaslova mb-10'>Početni deo obuke</p>
-        <p className='font-opensans mb-20 h-6 w-[600px]'>
+        <p className='font-opensans mb-20 h-6 lg:w-[600px]'>
         Ova tri principa rada se uče na prva tri kursa obuke „Cvet života” i potpadaju pod celinu koja se zove kvantna molitva. Cilj početnog dela obuke je da pojedinac:
         </p>
         <div>

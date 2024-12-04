@@ -9,7 +9,7 @@ import Seven from '../assets/7.png'
 
 export const Ratnik = () => {
   return (
-    <div className='flex p-10'>
+    <div className='flex lg:flex-row flex-col p-10 max-w-[1140px] mx-auto'>
       
       <div className='mx-auto mt-20 max-w-[624px]'>
       <h1 className='text-4xl font-velikaslova mb-6'>Svetlosni ratnik</h1>

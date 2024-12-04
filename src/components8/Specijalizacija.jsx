@@ -5,18 +5,18 @@ import Glava from '../assets/image 15.png'
 
 export const Specijalizacija = () => {
   return (
-    <div className='mx-auto flex flex-col lg:flex-row w-full mt-10'>
+    <div className='mx-auto flex flex-col lg:flex-row mt-10 '>
 
-        <div className='mx-auto flex-1 bg-duhovna bg-cover p-32 h-[800px]'>
-        <h1 className='font-velikaslova text-4xl text-white mb-6'>Duhovna specijalizacija</h1>
+        <div className='mx-auto flex-1 bg-duhovna bg-cover lg:p-28 h-[800px] md:p-20 p-16'>
+        <h1 className='font-velikaslova text-4xl text-white mb-6 mt-20 lg:ml-20 max-w-[463px] mx-auto'>Duhovna specijalizacija</h1>
 
-        <p className='font-opensans text-white mb-6 max-w-md'>
+        <p className='font-opensans text-white mb-6 max-w-[463px] lg:ml-20 '>
         Posle osmog nivoa obuke, počinje duhovna specijalizacija ili master studije. Na ovom nivou pojedinac može svojim izborom prolaziti jednu ili sve tri oblasti naprednog duhovnog rada. Sve ove tri oblasti su potpuno novi principi duhovnog rada u svetu i vrlo efikasni u rešavanju velikog broja fizičkih i duhovnih problema. Napredne oblasti duhovnog rada su:
         </p>
 
-        <ul className='space-y-4'>
+        <ul className='space-y-4 lg:ml-20 max-w-[463px]'>
             <li className='flex items-center space-x-8'>
-            <span className="w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-zuta">
+            <span className='flex-shrink-0 w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-zuta'>
             <img src={Flaster} />
             </span>
             <p className='font-opensans text-white font-bold'>
@@ -25,7 +25,7 @@ export const Specijalizacija = () => {
             </li>
 
             <li className='flex items-center space-x-8'>
-            <span className="w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-zelena">
+            <span className='flex-shrink-0 w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-zelena'>
             <img src={Atom} />
             </span>
             <p className='font-opensans text-white font-bold'>
@@ -34,7 +34,7 @@ export const Specijalizacija = () => {
             </li>
 
             <li className='flex items-center space-x-8'>
-            <span className="w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-[#979a1a]">
+            <span className='flex-shrink-0 w-12 h-12 bg-white rounded-full flex items-center justify-center text-black mr-4 border-[2px] border-[#979a1a]'>
             <img src={Glava} />
             </span>
             <p className='font-opensans text-white font-bold'>
@@ -45,8 +45,8 @@ export const Specijalizacija = () => {
 
         </div>
 
-        <div className='mx-auto flex-1 p-32 mt-20'>
-        <p className='mb-4 font-opensans max-w-md'>
+        <div className='mx-auto flex-1 lg:p-28 mt-20 md:p-20 p-16'>
+        <p className='mb-4 font-opensans mt-10 max-w-[463px]'>
         Sve ukupno ima oko 15 nivoa obuke „Cvet života”, koje se nadograđuju i
         nadovezuju jedna na drugu. Obuka je tako koncipirana da se prolaskom
         nivoa tragalaca usmerava u sve dublje oblasti duhovnog rada i gde nije

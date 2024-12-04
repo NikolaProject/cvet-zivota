@@ -10,6 +10,7 @@ import Onama from './Onama';
 import KontaktirajNas from './KontaktirajNas';
 import Napomene from './Napomene';
 import Structure from './Strukturaobuke';
+import Courses from './Kursevi';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
@@ -19,7 +20,7 @@ root.render(
   <Routes>
 
     <Route path='/' element={<App/>} />
-    <Route path='/Obukeikursevi' element={<NewApp/>} />
+    <Route path='/Obukeikursevi' element={<Courses/>} />*
     <Route path='/Nasiprojekti' element={<Nasiproj/>} />
     <Route path='/Onama' element={<Onama/>}/>
     <Route path='/Kontakt' element={<KontaktirajNas/>}/>

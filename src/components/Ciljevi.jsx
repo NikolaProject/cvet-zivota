@@ -10,14 +10,14 @@ import Misljenje from "../assets/misljenje.png"
 
 export const Ciljevi = () => {
   return (
-    <div>
+    <div className='max-w-[1140px] mx-auto'>
 
         <p className='font-velikaslova text-4xl text-center p-20'>
             Ciljevi udruženja
         </p>
 
-        <div className='text-center ml-32 mr-32 mt-10 hidden lg:flex'>
-            <div className='md:h-[280px] md:w-[280px] mx-auto rounded-md border-[1px] p-10 flex flex-col items-center '>
+        <div className='text-center ml-32 mr-32 mt-10 hidden lg:flex space-x-4'>
+            <div className='md:h-[280px] md:w-[280px] mx-auto rounded-md border-[1px] p-10 flex flex-col items-center'>
                 <img src={Oko} alt="" className='max-w-full max-h-full'/>
                 <p className='font-opensans text-sm'>
                 Istraživanje duhovnih fenomena i nevidljivih svetova
@@ -45,7 +45,7 @@ export const Ciljevi = () => {
                 </p>
             </div>
         </div>
-        <div className='text-center ml-32 mr-32 mt-10 hidden lg:flex'>
+        <div className='text-center ml-32 mr-32 mt-10 hidden lg:flex space-x-4'>
             <div className='md:h-[280px] md:w-[280px] mx-auto rounded-md border-[1px] p-10 flex flex-col items-center'>
                 <img src={Lenijar} alt="" />
                 <p className='font-opensans text-sm'>
