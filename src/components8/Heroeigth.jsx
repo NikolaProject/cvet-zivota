@@ -40,7 +40,7 @@ export const Heroeight = () => {
         <span className='text-white'>Struktura obuke </span>
         <span className='text-zuta'>„Cvet Života”</span>
       </p>
-      <p className='text-white font-opensans justify-center'>Cilj obuke „Cvet života” je da duhovne tragaoce poduči disciplini u duhovnom radu, da prezentujemo jedan logični i praktični duhovni put koji ljudi mogu slediti na putu duhovne evolucije kroz etape rasta nivoa svesti i drugih duhovnih parametara. Stoga obuka ima stepene – korake koje je poželjno proći. </p>
+      <p className='text-white font-opensans justify-center lg:p-0 p-5'>Cilj obuke „Cvet života” je da duhovne tragaoce poduči disciplini u duhovnom radu, da prezentujemo jedan logični i praktični duhovni put koji ljudi mogu slediti na putu duhovne evolucije kroz etape rasta nivoa svesti i drugih duhovnih parametara. Stoga obuka ima stepene – korake koje je poželjno proći. </p>
       </div>
     </div>
   )

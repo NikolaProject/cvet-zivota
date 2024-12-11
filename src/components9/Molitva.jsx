@@ -3,8 +3,8 @@ import Slika from '../assets/image 18.png'
 
 export const Molitva = () => {
   return (
-    <div className='lg:w-[1140px] flex:col items-center mx-auto justify-between m-auto lg:flex'>
-        <div>
+    <div className='lg:w-[1140px] flex:col items-center mx-auto justify-between m-auto lg:flex lg:p-20 p-5'>
+        <div className='lg:mt-0 mt-10'>
             <h1 className='font-velikaslova text-4xl mb-10'>Kvantna molitva</h1>
 
             <p className='font-opensans max-w-[560px]'>
@@ -16,7 +16,7 @@ export const Molitva = () => {
             </p>
 
         </div>
-        <div className='ml-10'>
+        <div className='lg:ml-10 flex-shrink-0 mx-auto lg:mt-0 mt-10'>
             <img src={Slika} />
         </div>
     </div>

@@ -61,7 +61,7 @@ const data = [
 
 const Obuke = () => {
   return (
-    <div className='max-w-[1140px] m-auto hidden lg:block mt-24 '>
+    <div className='max-w-[1140px] m-auto hidden lg, md:block mt-24 '>
         <div className='text-left justify-between flex:col'>
         <p className='text-4xl font-velikaslova mb-10'>Početni deo obuke</p>
         <p className='font-opensans mb-20 h-6 w-[600px] flex'>
@@ -81,14 +81,14 @@ const Obuke = () => {
         
       {data.map(user =>(
         <SwiperSlide key={user.id}>
-            <div className='border-siva bg-zuta border-solid border-[1px] md:h-[200px] rounded-md'>
+            <div className='border-siva bg-zuta border-solid border-[1px] md:h-[300px] rounded-md'>
                 {user.testimonial}
                 
                 <div className='p-5'>
                 <p className='text-black font-opensans'>{user.text}</p>
                 </div>
             </div>
-            <div className='h-10'></div>
+            <div className='lg:h-10 h-12'></div>
         </SwiperSlide>
       ))}
 

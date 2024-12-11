@@ -55,7 +55,7 @@ const data = [
 
 const Rezultati = () => {
   return (
-    <div className='max-w-[1140px] m-auto lg:hidden px-3 mt-16 '>
+    <div className='max-w-[1140px] m-auto lg, md:hidden px-3 mt-16 '>
         <div className='text-left justify-between'>
         <p className='font-opensans mb-20 h-6 lg:w-[600px]'>
         Tokom prva tri kursa, tragalac postiže sledeće rezultate:

@@ -9,7 +9,7 @@ const Item = ({ itemData }) => {
             <h2 className='font-velikaslova text-3xl mt-5 text-zelena'>{itemData.subtitle}</h2>
             <p className='font-opensans pb-10'>{itemData.brackets}</p>
             <div className="grid">
-                <p className='mr-0 lg:mr-20 md:h-[450px]'>
+                <p className='mr-0 lg:mr-20 md:h-[450px] '>
                     {
                         itemData.content.map((content) => (<span>{content}<br/></span>))
                     }

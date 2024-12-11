@@ -37,7 +37,7 @@ module.exports = {
         statistika: "url('../public/img/statistika.png')",
         kontakt: "url('../public/img/Kontak.png')",
         herodva: "url('../public/img/hero2.png')",
-        herotri: "url('../public/img/hero3.png')",
+        herotri: "url('../public/img/hero4.png')",
         heroosam: "url('../public/img/image 11.png')",
         meditacija: "url('../public/img/image 8.png')",
         duhovna: "url('../public/img/Pozadina.png')",

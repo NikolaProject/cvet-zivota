@@ -5,9 +5,9 @@ import Glava from '../assets/image 15.png'
 
 export const Specijalizacija = () => {
   return (
-    <div className='mx-auto flex flex-col lg:flex-row mt-10 '>
+    <div className='mx-auto flex flex-col lg:flex-row mt-10 mb-0'>
 
-        <div className='mx-auto flex-1 bg-duhovna bg-cover lg:p-28 h-[800px] md:p-20 p-16'>
+        <div className='mx-auto flex-1 bg-duhovna bg-cover lg:p-28 h-[800px] md:p-20 p-5'>
         <h1 className='font-velikaslova text-4xl text-white mb-6 mt-20 lg:ml-20 max-w-[463px] mx-auto'>Duhovna specijalizacija</h1>
 
         <p className='font-opensans text-white mb-6 max-w-[463px] lg:ml-20 '>
@@ -45,7 +45,7 @@ export const Specijalizacija = () => {
 
         </div>
 
-        <div className='mx-auto flex-1 lg:p-28 mt-20 md:p-20 p-16'>
+        <div className='mx-auto flex-1 lg:p-28 md:mt-20 p-5'>
         <p className='mb-4 font-opensans mt-10 max-w-[463px]'>
         Sve ukupno ima oko 15 nivoa obuke „Cvet života”, koje se nadograđuju i
         nadovezuju jedna na drugu. Obuka je tako koncipirana da se prolaskom

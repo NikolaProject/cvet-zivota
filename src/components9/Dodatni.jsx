@@ -74,7 +74,7 @@ const Kursevi = () => {
 
     <div className='font-opensans mt-3 justify-between items-center flex lg:w-[1140px] m-auto '>
       <div className='mt-20 lg:flex rounded '>
-        <div className=''>
+        <div>
 
           {
             data.map((item) => <Item itemData={item} />)
@@ -91,7 +91,7 @@ const Kursevi = () => {
             </ul>
           </button>
         </div>
-        <img src={Slika} className='mt-10' alt="" />
+        <img src={Slika} className='mt-10 flex' alt="" />
       </div>
     </div>
   )

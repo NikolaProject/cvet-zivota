@@ -10,14 +10,14 @@ export const Nezavisneobuke = () => {
                 Nezavisne obuke
             </p>
 
-            <p className='font-opensans text-center mt-10 text-base max-w-[900px] mx-auto mb-10'>
+            <p className='font-opensans text-center mt-10 text-base max-w-[900px] mx-auto mb-10 p-5'>
             Nakon prvog dela obuke „Cvet života – kvantna molitva”, pojedinac može svojevoljno dopuniti svoja znanja uz pomoć tri nezavisne obuke koje su tu da dopune znanja tragaoca i da mu daju pomoćne alate za duhovni rad:
             </p>
         </div>
 
-        <div className='md:flex md:w-full justify-center mb-16 border-solid max-w-[1140px] m-auto '>
+        <div className='md:flex md:w-full justify-center mb-16 max-w-[1140px] m-auto'>
 
-            <div className='max-w-[367px] rounded-md mb-10 mx-5 justify-start border-[1px] border-siva'>
+            <div className='max-w-[367px] rounded-md mb-10 mx-5 lg:justify-start border-[1px] border-siva'>
                 <h1 className='bg-zelena text-white font-opensans text-lg p-4'>
                   Radiestezija
                 </h1>
@@ -27,7 +27,7 @@ export const Nezavisneobuke = () => {
                 </p>
             </div>
 
-            <div className='max-w-[367px] rounded-md mb-10 mx-5 justify-start border-[1px] border-siva'>
+            <div className='max-w-[367px] rounded-md mb-10 mx-5 lg:justify-start border-[1px] border-siva'>
                 <h1 className='bg-zelena text-white font-opensans text-lg p-4'>
                 Sveta geometrija
                 </h1>
@@ -52,7 +52,7 @@ export const Nezavisneobuke = () => {
 
         
 
-        <img src={Meditacija} className='mt-0 m-auto lg:p-0 lg:flex w-full' alt="" />
+        <img src={Meditacija} className='mt-0 m-auto lg:p-0 lg:flex w-full ' alt="" />
     </div>
   )
 }

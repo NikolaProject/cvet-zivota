@@ -200,8 +200,8 @@ const Kursevi = () => {
 
     <div className='font-opensans mt-3 justify-between items-center flex lg:w-[1140px] m-auto '>
       <div className='mt-20 lg:flex rounded '>
-      <img src={Slika} className='mt-10' alt="" />
-        <div className='ml-10'>
+      <img src={Slika} className='mt-10 flex' alt="" />
+        <div className='lg:ml-10'>
 
           {
             data.map((item) => <Item itemData={item} />)
@@ -209,12 +209,18 @@ const Kursevi = () => {
           }
           <button onClick={back} className='ml-4'>
             <ul className='list-none flex'>
-              <li className='rounded-full w-[40px] h-[40px] mr-3 bg-zelena'><span className='ml-[-5px] mt-[-3px] absolute w-4 h-4 border-2 border-white rotate-45 border-r-0 border-t-0 '></span></li>
+                <li className='rounded-full w-[40px] h-[40px] mr-3 bg-zelena'>
+                    <span className='ml-[-5px] mt-[-3px] absolute w-4 h-4 border-2 border-white rotate-45 border-r-0 border-t-0 '>
+                    </span>
+                </li>
             </ul>
           </button>
           <button onClick={forward} className=''>
             <ul className='list-none flex '>
-              <li className='rounded-full w-[40px] h-[40px] bg-zelena'><span className='ml-[-10px] mt-[-3px] absolute w-4 h-4 border-2 border-white rotate-45 border-l-0 border-b-0'></span></li>
+                <li className='rounded-full w-[40px] h-[40px] bg-zelena'>
+                    <span className='ml-[-10px] mt-[-3px] absolute w-4 h-4 border-2 border-white rotate-45 border-l-0 border-b-0'>
+                    </span>
+                </li>
             </ul>
           </button>
         </div>

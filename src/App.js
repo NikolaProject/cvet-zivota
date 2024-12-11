@@ -10,6 +10,7 @@ import Footer from "./components3/Footer";
 import { Onama } from "./components/Onama";
 import Ciljevi from "./components/Ciljevi";
 import Ciljevi2 from "./components/Ciljevi2";
+import Ciljevi3 from "./components/Ciljevi3";
 
 <link rel="preconnect" href="https://fonts.googleapis.com"></link>;
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin></link>;
@@ -24,6 +25,8 @@ function App() {
     <Ciljevi/>
 
     <Ciljevi2/>
+
+    <Ciljevi3/>
 
     <Onama/>
     

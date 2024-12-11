@@ -81,14 +81,14 @@ const data = [
 ]
 
 
-const Ciljevi2 = () => {
+const Ciljevi3 = () => {
   return (
-    <div className='max-w-[1140px] m-auto max-sm:hidden lg:hidden px-3 mt-24'>
+    <div className='max-w-[1140px] m-auto sm:hidden px-3 mt-24'>
 
 
         <Swiper 
-      spaceBetween={20}
-      slidesPerView={2.4} 
+      spaceBetween={50}
+      slidesPerView={1.2} 
       pagination={{ clickable: true }}
       
       onSlideChange={() => console.log('slide change')}
@@ -115,4 +115,4 @@ const Ciljevi2 = () => {
   )
 }
 
-export default Ciljevi2
+export default Ciljevi3

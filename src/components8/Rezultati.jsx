@@ -55,7 +55,7 @@ const data = [
 
 const Rezultati = () => {
   return (
-    <div className='max-w-[1140px] m-auto hidden lg:block mt-16 '>
+    <div className='max-w-[1140px] m-auto hidden lg, md:block mt-16 '>
         <div className='text-left justify-between'>
         <p className='font-opensans mb-20 h-6 w-[600px]'>
         Tokom prva tri kursa, tragalac postiže sledeće rezultate:
@@ -66,7 +66,7 @@ const Rezultati = () => {
         </div>
 
 
-        <Swiper 
+        <Swiper
       spaceBetween={20}
       slidesPerView={4} 
       pagination={{ clickable: true }}
@@ -77,7 +77,7 @@ const Rezultati = () => {
         
       {data.map(user =>(
         <SwiperSlide key={user.id}>
-            <div className='border-siva bg-zelena border-solid border-[1px] md:h-[232px] rounded-md'>
+            <div className='border-siva bg-zelena border-solid border-[1px] md:h-[380px] rounded-md'>
                 {user.testimonial}
                 
                 <div className='p-5'>
