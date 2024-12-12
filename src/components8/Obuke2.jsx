@@ -61,7 +61,7 @@ const data = [
 
 const Obuke2 = () => {
   return (
-    <div className='max-w-[1140px] m-auto lg:hidden px-3 mt-24'>
+    <div className='max-w-[1140px] m-auto md:hidden px-3 mt-24'>
         <div className='text-left justify-between flex:col'>
         <p className='text-4xl font-velikaslova mb-10'>Početni deo obuke</p>
         <p className='font-opensans mb-20 h-6 lg:w-[600px]'>

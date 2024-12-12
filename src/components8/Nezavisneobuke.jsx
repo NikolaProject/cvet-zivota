@@ -15,9 +15,9 @@ export const Nezavisneobuke = () => {
             </p>
         </div>
 
-        <div className='md:flex md:w-full justify-center mb-16 max-w-[1140px] m-auto'>
+        <div className='md:flex md:w-full justify-center mb-16 max-w-[1140px] mx-auto p-5 md:space-x-4'>
 
-            <div className='max-w-[367px] rounded-md mb-10 mx-5 lg:justify-start border-[1px] border-siva'>
+            <div className='max-w-[367px] rounded-md mb-10 mx-auto border-[1px] border-siva'>
                 <h1 className='bg-zelena text-white font-opensans text-lg p-4'>
                   Radiestezija
                 </h1>
@@ -27,7 +27,7 @@ export const Nezavisneobuke = () => {
                 </p>
             </div>
 
-            <div className='max-w-[367px] rounded-md mb-10 mx-5 lg:justify-start border-[1px] border-siva'>
+            <div className='max-w-[367px] rounded-md mb-10 mx-auto border-[1px] border-siva'>
                 <h1 className='bg-zelena text-white font-opensans text-lg p-4'>
                 Sveta geometrija
                 </h1>
@@ -38,7 +38,7 @@ export const Nezavisneobuke = () => {
                 
             </div>
 
-            <div className='max-w-[367px] rounded-md mb-10 mx-5 justify-start border-[1px] border-siva'>
+            <div className='max-w-[367px] rounded-md mb-10 mx-auto border-[1px] border-siva'>
                 <h1 className='bg-zelena text-white font-opensans text-lg p-4'>
                 Regresoterapija
                 </h1>
@@ -50,9 +50,7 @@ export const Nezavisneobuke = () => {
 
         </div>
 
-        
-
-        <img src={Meditacija} className='mt-0 m-auto lg:p-0 lg:flex w-full ' alt="" />
+        <img src={Meditacija} className='mt-0 m-auto lg:p-0 lg:flex md:w-full lg:h-full' alt="" />
     </div>
   )
 }

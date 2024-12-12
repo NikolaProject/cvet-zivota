@@ -57,7 +57,7 @@ const Rezultati = () => {
   return (
     <div className='max-w-[1140px] m-auto hidden lg, md:block mt-16 '>
         <div className='text-left justify-between'>
-        <p className='font-opensans mb-20 h-6 w-[600px]'>
+        <p className='font-opensans mb-16 h-6 w-[600px]'>
         Tokom prva tri kursa, tragalac postiže sledeće rezultate:
         </p>
         <div>

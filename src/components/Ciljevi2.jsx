@@ -83,7 +83,7 @@ const data = [
 
 const Ciljevi2 = () => {
   return (
-    <div className='max-w-[1140px] m-auto max-sm:hidden lg:hidden px-3 mt-24'>
+    <div className='max-w-[1140px] m-auto max-sm:hidden lg:hidden px-3 mt-12'>
 
 
         <Swiper 

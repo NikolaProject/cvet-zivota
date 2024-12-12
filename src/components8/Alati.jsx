@@ -25,8 +25,8 @@ export const Alati = () => {
 
                     <div className='flex p-5 mt-0 ml-0 max-sm:flex-col'>
 
-                        <div className='flex-2 mr-10 '>
-                            <p className='font-montaga text-[#979a1a] text-8xl'>
+                        <div className='flex-2 mr-10'>
+                            <p className='font-montaga text-[#979a1a] text-8xl md:mb-0 mb-6'>
                               1  
                             </p>
 
@@ -48,7 +48,7 @@ export const Alati = () => {
                     <div className='flex p-5 mt-0 ml-0 max-sm:flex-col'>
 
                         <div className='flex-2 mr-10'>
-                            <p className='font-montaga text-[#979a1a] text-8xl'>
+                            <p className='font-montaga text-[#979a1a] text-8xl md:mb-0 mb-6'>
                                 2
                             </p>
                         </div>
@@ -68,7 +68,7 @@ export const Alati = () => {
                     <div className='flex p-5 mt-0 ml-0 max-sm:flex-col'>
 
                         <div className='flex-2 mr-10'>
-                            <p className='font-montaga text-[#979a1a] text-8xl'>
+                            <p className='font-montaga text-[#979a1a] text-8xl md:mb-0 mb-6'>
                                 3
                             </p>
                         </div>
